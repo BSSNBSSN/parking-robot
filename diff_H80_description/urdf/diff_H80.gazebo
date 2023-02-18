@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <robot name="diff_H80" xmlns:xacro="http://www.ros.org/wiki/xacro" >
 
-<xacro:property name="body_color" value="Gazebo/Black" />
+<xacro:property name="body_color" value="Gazebo/Grey" />
 <xacro:property name="body_color_1" value="Gazebo/Orange" />
 <gazebo>
   <plugin filename="libgazebo_ros_control.so" name="control">
