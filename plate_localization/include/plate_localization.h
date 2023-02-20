@@ -10,6 +10,10 @@
 #include <cv_bridge/cv_bridge.h>
 #include <opencv2/opencv.hpp>
 #include <iostream>
+#include <vector>
+
+using namespace cv;
+using namespace std;
 
 class SubPuber
 {
